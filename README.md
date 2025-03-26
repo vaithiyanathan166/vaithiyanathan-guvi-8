@@ -36,8 +36,7 @@ VALUES (1, 'image', 'https://example.com/inception-image.jpg');
 
 SELECT * FROM Media;
 
- ![image](https://github.com/user-attachments/assets/89d62490-d3c2-4888-973d-beaba3d2e4d9)
-
+ 
 
 CREATE TABLE Genres (
     genre_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -158,6 +157,3 @@ VALUES (1, 1, 1);
 
 
 SELECT * FROM ArtistRoles;
-
-
- 
